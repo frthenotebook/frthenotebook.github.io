@@ -1,3 +1,8 @@
+---
+title: Yukiko "Yuu" Nakao
+description: This is a page in my Starlight-powered site
+---
+
 > *“...Yuu. Yukiko Nakao.”*
 > *“...Yes, that’s my name.”*
 > *“...No, I am not lying. Just… **stop asking**.”*

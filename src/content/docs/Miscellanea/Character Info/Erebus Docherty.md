@@ -1,3 +1,8 @@
+---
+title: Erebus Docherty
+description: This is a page in my Starlight-powered site
+---
+
 > *"**It's Docherty. With a hard k.**"*
 
 ## Introduction

@@ -1,3 +1,8 @@
+---
+title: Serafina "Finn" Yansen
+description: This is a page in my Starlight-powered site
+---
+
 ## Introduction
 
 **Name**: Serafina "Finn" Yansen

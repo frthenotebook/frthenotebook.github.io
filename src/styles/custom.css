@@ -1,0 +1,7 @@
+:root {
+  --sl-font: 'Stack Sans Text', sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Stack Sans Notch', sans-serif;
+}

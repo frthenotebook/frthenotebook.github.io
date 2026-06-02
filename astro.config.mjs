@@ -8,6 +8,13 @@ export default defineConfig({
 	integrations: [
 		starlight({
 			title: 'From the Notebook',
+			customCss: [
+				// Fontsource files for to regular and semi-bold font weights.
+				'@fontsource/stack-sans-text/300.css',
+				'@fontsource/stack-sans-text/500.css',
+				'@fontsource/stack-sans-notch/300.css',
+				'@fontsource/stack-sans-notch/500.css'
+			],
 			logo: {
 				light: './src/assets/navy-logo.svg',
 				dark: './src/assets/lilac-logo.svg',

@@ -11,6 +11,8 @@
   },
   "dependencies": {
     "@astrojs/starlight": "^0.39.2",
+    "@fontsource-variable/stack-sans-notch": "^5.2.1",
+    "@fontsource-variable/stack-sans-text": "^5.2.1",
     "astro": "^6.3.1",
     "sharp": "^0.34.5"
   }

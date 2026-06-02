@@ -2,6 +2,23 @@
 import { defineConfig } from 'astro/config';
 import starlight from '@astrojs/starlight';
 
+starlight({
+	favicon: '/navy-logo.svg',
+	head: [
+		// Add ICO favicon fallback for Safari.
+		{
+			tag: 'link',
+			attrs: {
+				rel: 'icon',
+				href: '/favicon.ico',
+				sizes: '32x32',
+			},
+		},
+	],
+	title: '',
+	pagination: false
+});
+
 // https://astro.build/config
 export default defineConfig({
 	site: 'https://frthenotebook.github.io',
@@ -10,10 +27,8 @@ export default defineConfig({
 			title: 'From the Notebook',
 			customCss: [
 				// Fontsource files for to regular and semi-bold font weights.
-				'@fontsource/stack-sans-text/300.css',
-				'@fontsource/stack-sans-text/500.css',
-				'@fontsource/stack-sans-notch/300.css',
-				'@fontsource/stack-sans-notch/500.css'
+				'@fontsource/stack-sans-text',
+				'@fontsource/stack-sans-notch'
 			],
 			logo: {
 				light: './src/assets/navy-logo.svg',
@@ -59,20 +74,4 @@ export default defineConfig({
 			],
 		}),
 	],
-});
-
-starlight({
-	favicon: '/navy-logo.svg',
-	head: [
-		// Add ICO favicon fallback for Safari.
-		{
-			tag: 'link',
-			attrs: {
-				rel: 'icon',
-				href: '/favicon.ico',
-				sizes: '32x32',
-			},
-		},
-	],
-	title: ''
 });

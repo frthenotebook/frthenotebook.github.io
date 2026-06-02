@@ -9,8 +9,8 @@ export default defineConfig({
 		starlight({
 			title: 'From the Notebook',
 			logo: {
-				light: './src/assets/lilac-logo.svg',
-				dark: './src/assets/navy-logo.svg',
+				light: './src/assets/navy-logo.svg',
+				dark: './src/assets/lilac-logo.svg',
 			},
 			social: [
 				{ 
@@ -52,4 +52,20 @@ export default defineConfig({
 			],
 		}),
 	],
+});
+
+starlight({
+	favicon: '/navy-logo.svg',
+	head: [
+		// Add ICO favicon fallback for Safari.
+		{
+			tag: 'link',
+			attrs: {
+				rel: 'icon',
+				href: '/favicon.ico',
+				sizes: '32x32',
+			},
+		},
+	],
+	title: ''
 });

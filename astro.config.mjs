@@ -7,8 +7,28 @@ export default defineConfig({
 	site: 'https://frthenotebook.github.io',
 	integrations: [
 		starlight({
-			title: 'My Docs',
-			social: [{ icon: 'github', label: 'GitHub', href: 'https://github.com/withastro/starlight' }],
+			title: 'From the Notebook',
+			logo: {
+				light: './src/assets/lilac-logo.svg',
+				dark: './src/assets/navy-logo.svg',
+			},
+			social: [
+				{ 
+					icon: 'github', 
+					label: 'GitHub', 
+					href: 'https://github.com/frtheatelier' 
+				},
+				{ 
+					icon: 'instagram', 
+					label: 'Instagram', 
+					href: 'https://instagram.com/frtheatelier' 
+				},
+				{ 
+					icon: 'star', 
+					label: 'tumblr', 
+					href: 'https://frthenotebook.tumblr.com' 
+				}
+			],
 			sidebar: [
 				{
 					label: 'Guides',

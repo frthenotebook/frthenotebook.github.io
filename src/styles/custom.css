@@ -1,8 +1,14 @@
 :root {
   --sl-font: 'Stack Sans Text', sans-serif;
+  --sl-font-heading: 'Stack Sans Notch', sans-serif;
+  --sl-font-title: 'Jacquard 12', sans-serif;
 }
 
 h1, h2, h3, h4, h5, h6 {
-  /* font-family: 'Stack Sans Notch', sans-serif; */
-  font-family: 'Jacquard 12', sans-serif;
+  font-family: var(--sl-font-heading);
+  /* font-family: 'Jacquard 12', sans-serif; */
+}
+
+.site-title {
+  font-family: var(--sl-font-title);
 }

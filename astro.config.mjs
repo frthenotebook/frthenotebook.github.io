@@ -7,30 +7,32 @@ export default defineConfig({
 	site: 'https://frthenotebook.github.io',
 	integrations: [
 		starlight({
-			title: 'From the Notebook',
-			favicon: '/navy-logo.svg',
+			title: 'TheN0tebook',
+			favicon: '/FrT.svg',
 			head: [
 				// Add ICO favicon fallback for Safari.
 				{
 					tag: 'link',
 					attrs: {
 						rel: 'icon',
-						href: '/favicon.ico',
+						href: '/FrT.ico',
 						sizes: '32x32',
 					},
 				},
 			],
 			customCss: [
 				// Fontsource files for to regular and semi-bold font weights.
-				'@fontsource/stack-sans-text/400.css',
-				'@fontsource/stack-sans-notch/600.css',
-				'@fontsource/jacquard-12',
+				'@fontsource/syne-tactile',
+				'@fontsource/dm-mono/400.css',
+				'@fontsource/dm-mono/500.css',
+				'@fontsource-variable/dm-sans/wght.css',
 				// Custom CSS file for additional styles.
 				'./src/styles/custom.css',
 			],
 			logo: {
-				light: './src/assets/navy-logo.svg',
-				dark: './src/assets/lilac-logo.svg',
+				light: './src/assets/clover.svg',
+				dark: './src/assets/clover-beige.svg',
+				replacesTitle: true,
 			},
 			social: [
 				{ 
@@ -54,7 +56,7 @@ export default defineConfig({
 					label: 'Read me!',
 					items: [
 						// Each item here is one entry in the navigation menu.
-						{ label: 'Introduction', slug: 'intro' },
+						{ label: 'Introduction', slug: 'index' },
 					],
 				},
 				{

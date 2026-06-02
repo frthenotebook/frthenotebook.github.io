@@ -1,7 +1,13 @@
 :root {
-  --sl-font: 'Stack Sans Text', sans-serif;
-  --sl-font-heading: 'Stack Sans Notch', sans-serif;
-  --sl-font-title: 'Jacquard 12', sans-serif;
+  --sl-font: 'DM Mono', sans-serif;
+  --sl-font-heading: 'DM Sans Variable', sans-serif;
+  --sl-font-title: 'Syne Tactile', monospace;
+  --font-mono: 'DM Mono', monospace;
+  --font-letter-spacing: -0.9px;
+}
+
+body {
+  letter-spacing: var(--font-letter-spacing);
 }
 
 h1, h2, h3, h4, h5, h6 {

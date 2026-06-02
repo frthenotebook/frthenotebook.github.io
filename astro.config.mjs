@@ -31,15 +31,23 @@ export default defineConfig({
 			],
 			sidebar: [
 				{
-					label: 'Guides',
+					label: 'Read me!',
 					items: [
 						// Each item here is one entry in the navigation menu.
-						{ label: 'Example Guide', slug: 'guides/example' },
+						{ label: 'Introduction', slug: 'intro' },
 					],
 				},
 				{
-					label: 'Reference',
-					items: [{ autogenerate: { directory: 'reference' } }],
+					label: 'OUR0BOROS',
+					items: [{ autogenerate: { directory: 'OUR0BOROS' } }],
+				},
+				{
+					label: 'Errs of Kepler',
+					items: [{ autogenerate: { directory: 'Errs of Kepler' } }],
+				},
+				{
+					label: 'Miscellanea',
+					items: [{ autogenerate: { directory: 'Miscellanea' } }],
 				},
 			],
 		}),

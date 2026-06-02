@@ -28,7 +28,9 @@ export default defineConfig({
 			customCss: [
 				// Fontsource files for to regular and semi-bold font weights.
 				'@fontsource/stack-sans-text/400.css',
-				'@fontsource/stack-sans-notch/600.css'
+				'@fontsource/stack-sans-notch/600.css',
+				// Custom CSS file for additional styles.
+				'./src/styles/custom.css',
 			],
 			logo: {
 				light: './src/assets/navy-logo.svg',

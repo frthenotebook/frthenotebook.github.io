@@ -27,8 +27,8 @@ export default defineConfig({
 			title: 'From the Notebook',
 			customCss: [
 				// Fontsource files for to regular and semi-bold font weights.
-				'@fontsource/stack-sans-text',
-				'@fontsource/stack-sans-notch'
+				'@fontsource/stack-sans-text/400.css',
+				'@fontsource/stack-sans-notch/600.css'
 			],
 			logo: {
 				light: './src/assets/navy-logo.svg',

@@ -61,5 +61,5 @@ The way they can be nudged could manifest as:
 Not all concepts end up personified, but those who are simply exists in some physical world. They came to be knowing what they are in truth, and with one goal in mind. They come wired with an innate understanding of humanity, yet how they act on this understanding varies per being.
 
 ## Relevant links
-- [Erebus Docherty](/character-info/erebus-docherty/)
-- [On Love](/character-writing/erebus---on-love/)
+- [Erebus Docherty](../character-info/erebus-docherty/)
+- [On Love](../character-writing/erebus---on-love/)

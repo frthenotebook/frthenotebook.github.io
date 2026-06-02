@@ -5,7 +5,7 @@ description: This is a page in my Starlight-powered site
 
 ### 0777: BECOMING HUMAN
 
-[Link to world](worlds/becoming-human/about/)
+[Link to world](../worlds/becoming-human/about/)
 
 - **CODE**: 0777-BH
 - **FULL**: *Becoming Human*
@@ -18,7 +18,7 @@ description: This is a page in my Starlight-powered site
 
 ### 0286: STAGNATE
 
-[Link to world](worlds/stagnate/)
+[Link to world](../worlds/stagnate/)
 
 - **CODE**: 0286-S
 - **FULL**: *Stagnate*
@@ -38,7 +38,7 @@ description: This is a page in my Starlight-powered site
 
 ### 0048: [2]EPHYR[0]S
 
-[Link to world](worlds/2ephyr0s/)
+[Link to world](../worlds/2ephyr0s/)
 
 - **CODE**: 0048-2PH
 - **FULL**: *[2]EPHYR[0]S*

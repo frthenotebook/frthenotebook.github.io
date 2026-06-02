@@ -38,4 +38,4 @@ If not feasible, there are other methods to get hold of a body. Modifications mu
 - They also lose any ability to think or feel.
 
 ## Specific notes
-- [Cassian and Vitus](/entities---777-bh)
+- [Cassian and Vitus](../entities---777-bh)

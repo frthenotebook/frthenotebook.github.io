@@ -28,6 +28,7 @@ export default defineConfig({
 				'@fontsource-variable/dm-sans/wght.css',
 				// Custom CSS file for additional styles.
 				'./src/styles/custom.css',
+				'./src/styles/colors.css'
 			],
 			logo: {
 				light: './src/assets/clover.svg',

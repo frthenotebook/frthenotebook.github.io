@@ -1,4 +1,83 @@
 ---
-title: Errs of Kepler - Magic
+title: Magic
 description: This is a page in my Starlight-powered site
 ---
+
+## Concept
+- Magic system where basically magic is one of the fundamental properties of the universe
+	- ok so *technically* in universe it may not be considered "magic" so to speak, but it is possible that the name just sticks from some history where someone just named this thing "magic" and. yea.
+	- nonetheless, it's a studied science in this universe
+- magic, in this case, is kind of hard to imagine? they are some sort of ephemeral state.
+	- some areas are more concentrated than others
+	- and its finicky and varies in intensity over time
+		- though it is not "random" in its disappearance.
+	- factors that affect magic intensity are kind of based on conduit density, openness, and uhhh force fields, among other things
+		- and by openness i mean something like how magic is able to "travel". really. it's sort of like diffusion but instead of gasses it's magic and the criteria isn't just concentration. idk.
+	- there's also the "sink" -- theorized location somewhere in the infinite 3-space where all magic will ultimately settle (think of it as the equilibrium point of this hypothetical model) which sort of affects the direction of the magic
+		- which is why there are models to predict the next location magic is going to intensify
+- magic is accessed and manipulated via conduits.
+	- it's like a hidden property that can manipulate physical conditions and known laws.
+	- some examples
+		- a rickety table heavily cracked will not break despite any heavy force, for there exist some property (magic) that supplies additional normal force to negate it. it's not "natural" in our sense, but in this, the magic is converted into something of physical force. once the control is released, the magic reverts back to its inert state and the table breaks.
+		- water flowing from the tap changes direction randomly. again, magic turned into weird ass physics.
+		- water suddenly becoming more basic without any interference of other chemicals because for some reason someone decides to channel magic near the container and have it mimic the effects of certain bases.
+		- faster healing (but with side effects i cannot think of atm) because consider: free energy at the cost of possibly your body, higher temperature, cell regeneration ala third party sources, and so on.
+- there are two main types of conduits of magic: living and non-living
+	- kind of self explanatory. but they do have different properties
+	- non-living conduits mostly contain magic
+		- magic is relatively stable once it is effectively "contained" to one object
+			- a tether if you will
+			- or basically think sponge taking up water and not letting it go until you squeeze it
+		- can persist in the "channeled"/changed form for a good amount of time (i do not know the specifics)
+		- an effective way to contain magic and transport it to other places 
+		- admittedly the caveat is that containing magic involves altering its state.
+			- non-living conduits cannot contain "pure magic"
+			- it can only contain it on its transformed state, e.g. when it's converted to force or some chemical
+	- living conduits can also contain magic, but by it being "living", it has a bit more agency.
+		- ok so on the containing bit, living conduits can only contain magic for a certain time until it strains the body
+			- magic in its transformed state is stable if it maintains this transformed state.
+			- however with living conduits having "living" systems that are considerably more dynamic than their non-living counterparts, the magic contained in these systems will also shift. a lot.
+			- this sort of increases entropy and will destabilize the magic, possibly resulting in bodily harm from body being "maladjusted"
+				- effects differ. but assume the common symptom is sudden metabolism drop of sorts.
+			- you can technically force compatibility and body adjustment from training your body to contain magic for long periods of time but uhhhhh is it worth it? 
+		- the agency bit is really just. if you have sentience, you could probably affect how magic affects you.
+			- magic does flow into a living conduit randomly and can be felt
+			- the mind can sort of will the body to make an effort to transform the magic
+				- there are some implications on determinism or ingrained habits or what not because the body is really skilled at that for some reason.
+				- like kids can intuitively manipulate and contain magic within themselves despite having no knowledge on what magic is
+				- like degree of control is weaker than those well-learnt but that's kind of given lol
+		- one can technically manipulate on object to increase conduciveness with magic. there are properties that affect its capability to contain magic but ehhhhhh i have no idea what they are and it's 2.36 am.
+- and technically we can force magic to transform and have it be contained in non-living conduits
+	- magic does transform sporadically and contain itself to certain items. and we can detect them.
+	- but we can also contain the magic, transform them, then transfer them to a non-living conduit. typically by contact but other states also work. contact's easier though. something to do with perceived shared bodies and what not
+- also this affects certain equations and theorems. especially ones that are made within "ideal conditions". like we can assume these people won't derive the true equation to certain stuff about the world, but they can some a bit "closer" to it. idk. funky stuff.
+	- like assume some guy named Hemmel created the Hemmel System which is an extension of the Lorenz System but with more parameters because. magic. idk.
+
+## Laws
+- Conservation of energy is still maintained
+- Actually, a lot of "real world" laws are maintained. to a degree but anyway
+- Magic flow has... a negligible effect on the world around us to be fair
+	- it flows (relatively slowly) towards the sink and its routing can be calculated with some margin of error
+	- once it stops at the sink, it stays there lol. equilibrium solution and all that
+- Magic is... basically an imposed rule of conversion
+	- takes in input and converts or amplifies
+		- input is restricted to the exerted domain space
+		- in that sense, if magic is contained into a solid material, it is much more stable and long lasting, yet the domain of input is restricted to the atoms of that material.
+			- domain increases if there is room for substances to flow because then external states can interact with the conduit and be considered "input"
+				- ...huh is this how i can resolve magic transference between non-living conduits? it's probably a step to that direction but more thought needed
+		- since magic and force can be applied to any object regardless of its physical state, we can consider both as "universal inputs"
+	- input has rules, output has rules
+	- how the middleman does its work? i have no idea.
+		- i, the author, claims it has something to do with dimensions beyond the third but hey idk man.
+- Magic is ephemeral and can be intense in certain areas
+	- no it cannot "disappear"
+	- actually magic is conserved. no creation nor deletion, just conversion as imposed by those with agency. how that works is a bit of a mystery.
+- Magic can be contained and stabilized to retain its transformed properties for some period of time depending on the conduit.
+	- certain properties of a conduit can increase stability of the transformed magic
+	- in essence, if the conduit experiences less entropy, it is a much better conduit (more effective at containing magic)
+- Magic is transformed by a living conduit and transferred to a non-living conduit mostly if one wants to contain magic or affect the environment in some way.
+	- subconscious processes do the transformation for the most part. i think.
+	- transference is done by contact for magic can "understand" it as a "connected system".
+	- transformed magic has a preference for non-living conduits (or "stable environments") so once it moves to the non-living conduit, it is unlikely for it to return to the living conduit.
+- Magic, in its transformed state, has a "time limit". It basically "degrades" over time into its pure state and the speed it does so depends on the conduit. 
+	- In the process of "degradation", there may or may not be side effects. (a/n still need to figure that out)

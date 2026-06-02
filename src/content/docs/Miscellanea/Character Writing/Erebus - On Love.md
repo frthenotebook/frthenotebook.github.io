@@ -1,5 +1,5 @@
 ---
-title: On Love - Erebus
+title: Erebus - On Love
 description: This is a page in my Starlight-powered site
 ---
 
@@ -39,6 +39,10 @@ Under the assumption my lover doesn't exist, then I would choose myself, of cour
 
 ## *A Gun on Their Hand, Pointed at Their beloved.*
 *modified from [@urfriendlywriter](https://www.tumblr.com/urfriendlywriter/759321899272749056/what-will-your-character-do?source=share) on tumblr*
+
+:::danger[Trigger Warnings]
+**Gun mention**, **Hostage situation**, Murder/character death, **Violence**
+:::
 
 *He cannot help but laugh, really. To think that such a scene would come to be; a dance with death is something one could hardly miss.*
 

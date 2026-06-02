@@ -1,5 +1,5 @@
 ---
-title: On Love - Finn
+title: Finn - On Love
 description: This is a page in my Starlight-powered site
 ---
 
@@ -61,6 +61,10 @@ Seeing that once again I have no lover, I'd choose myself.
 
 ## *A Gun on Their Hand, Pointed at Their Beloved.*
 *modified from [@urfriendlywriter](https://www.tumblr.com/urfriendlywriter/759321899272749056/what-will-your-character-do?source=share) on tumblr*
+
+:::danger[Trigger Warnings]
+**Gun mention**, **Derealization**, **body horror**, **blood/gore**, Intrusive thoughts, *implied suicidal ideation*
+:::
 
 What is the sudden escalation? Goodness gracious give me a break. 
 

@@ -1,5 +1,5 @@
 ---
-title: On Love - Yuu
+title: Yuu - On Love
 description: This is a page in my Starlight-powered site
 ---
 
@@ -51,6 +51,10 @@ No one.
 
 ## *A gun on their hand, pointed at their beloved.*
 *modified from [@urfriendlywriter](https://www.tumblr.com/urfriendlywriter/759321899272749056/what-will-your-character-do?source=share) on tumblr*
+
+:::danger[Trigger Warnings]
+**Gun mention**, **Coercion** (implied), stage fright (implied)
+:::
 
 *It's as funny as it is absurd. They never thought things would devolve this way. Or that it would even happen. A gun to their shoulders, their hands shaking, and every fiber of their being itching to burn in place.*
 

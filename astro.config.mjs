@@ -72,7 +72,7 @@ export default defineConfig({
 					items: [{ autogenerate: { directory: 'Miscellanea' } }],
 				},
 			],
-			pagination: false
+			pagination: true,
 		}),
 	],
 });

@@ -1,5 +1,5 @@
 ---
-title: On Love - Tanja
+title: Tanja - On Love
 description: This is a page in my Starlight-powered site
 ---
 
@@ -43,6 +43,10 @@ _[@urfriendlywriter](https://www.tumblr.com/urfriendlywriter/759321899272749056/
 
 ## *A gun on their hand, pointed at their beloved.*
 *modified from [@urfriendlywriter](https://www.tumblr.com/urfriendlywriter/759321899272749056/what-will-your-character-do?source=share) on tumblr*
+
+:::danger[Trigger Warnings]
+**Gun mention**, **Self-mutilation** (and fatal injury), **violence**, hostage situation, blood/injury (near fatal)
+:::
 
 *The gun was forced onto her, a Smith & Wesson revolver. It appears to be one of the more common types, etched with what seems to be a logo of sorts. The handgun fits awkwardly in her too-big hands, the handle too cold too the touch.*
 

@@ -21,6 +21,8 @@
     "@fontsource/stack-sans-text": "^5.2.1",
     "@fontsource/syne-tactile": "^5.2.8",
     "astro": "^6.3.1",
+    "rehype-mathjax": "^7.1.0",
+    "remark-math": "^6.0.0",
     "sharp": "^0.34.5"
   }
 }

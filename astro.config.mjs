@@ -58,6 +58,7 @@ export default defineConfig({
 					items: [
 						// Each item here is one entry in the navigation menu.
 						{ label: 'Introduction', slug: 'index' },
+						{ label: 'Development Log', slug: 'devlog' },
 					],
 				},
 				{

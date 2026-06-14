@@ -76,6 +76,10 @@ export default defineConfig({
 					items: [{ autogenerate: { directory: 'Errs of Kepler' } }],
 				},
 				{
+					label: 'SID',
+					items: [{ autogenerate: { directory: 'SID' } }],
+				},
+				{
 					label: 'Miscellanea',
 					items: [{ autogenerate: { directory: 'Miscellanea' } }],
 				},

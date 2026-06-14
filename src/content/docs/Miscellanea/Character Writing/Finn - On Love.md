@@ -9,7 +9,7 @@ Their lover is left purposefully ambiguous. May refer to a canonical lover or a 
 
 > *Is this written in the POV of the character?* **Yes**
 
-# What is Love to *you*?
+## What is Love to *you*?
 
 Love, huh? Can't quite say, really. Do you mean to ask about Eros? Or perhaps Filial?
 
@@ -19,7 +19,7 @@ Yes, yes I'm deflecting, but what am I supposed to say to this question? That "l
 
 I answered the question, didn't I? Whatever, in the end, regardless of the type of love, I wager that to be true. Love is irrational in a sense that one needs no argument for something to appear. But to prove its existence, one needs to show it however they could. Because then, all that's left is a feeling that may not be love.
 
-# How Are *you* when *you're* in Love
+## How Are *you* when *you're* in Love
 
 Well, gee, what am I supposed to answer? It's not like I fell "in love" before.
 
@@ -33,13 +33,13 @@ And, well, if I can't tell, then it's not really love now, is it?
 
 Ugh, whatever. This question is annoying. Next.
 
-## Habits
+### Habits
 
 …Habits? Really? Well if we're talking about habits with a romantic partner… I don't know. Sitting in silence, maybe. Or arcade trips. It's been a while since I last went.
 
-# Ask Game
+## Ask Game
 
-## Between *Your* Family and *Your* Lover, Who Would They *You*?
+### Between *Your* Family and *Your* Lover, Who Would They *You*?
 *[@urfriendlywriter](https://www.tumblr.com/urfriendlywriter/759321899272749056/what-will-your-character-do?source=share) on tumblr*
 
 Well, since my lover is currently null, then family it is. Though it's not like I'm that close to them either. Ah well, at least you get an answer.
@@ -50,7 +50,7 @@ Will my family be understanding about it? Will they accept me for who I am? Will
 
 ...Ah. I'm rambling.
 
-## Between *You* and *Your* Lover, Who Would *You* Choose?
+### Between *You* and *Your* Lover, Who Would *You* Choose?
 *[@urfriendlywriter](https://www.tumblr.com/urfriendlywriter/759321899272749056/what-will-your-character-do?source=share) on tumblr*
 
 Seeing that once again I have no lover, I'd choose myself. 
@@ -59,7 +59,7 @@ Seeing that once again I have no lover, I'd choose myself.
 
 (Then again, if I had to choose in the first place, then there must be conflict between this lover and I. And if conflict arises, then surely it must be my fault, right?)
 
-## *A Gun on Their Hand, Pointed at Their Beloved.*
+### *A Gun on Their Hand, Pointed at Their Beloved.*
 *modified from [@urfriendlywriter](https://www.tumblr.com/urfriendlywriter/759321899272749056/what-will-your-character-do?source=share) on tumblr*
 
 :::danger[Trigger Warnings]

@@ -9,13 +9,13 @@ Their lover is left purposefully ambiguous. May refer to a canonical lover or a 
 
 > *Is this written in the POV of the character?* **Yes**
 
-# What is Love to *you*?
+## What is Love to *you*?
 
 Love is somewhat akin to a fervent fire, suffocating in the way it continues to burn. Yet the heat is rather desirable in most cases, comforting and bright with its existence.
 
 …Ha. Didn't expect me to go all flowery like that, hm? I'm a song writer too, you know? Let me be poetic for once. But what I said is fairly true to me, regardless of what you think.
 
-# How Are *you* when in Love
+## How Are *you* when in Love
 
 Well, to be in love would mean to be ready to put myself down for them, you get what I mean?
 
@@ -23,27 +23,27 @@ Well, to be in love would mean to be ready to put myself down for them, you get 
 
 *To think she expected something loud to come from her heart. Something to match the energy of her stage shows and her music. But perhaps this smothering feeling of absolute want would be for the best. An addiction to care she could never get rid of, now would she choose to.*
 
-## Habits
+### Habits
 
 Oh, habits? Well, do morning cuddles count?
 
 *Calling her affectionate would be an understatement, because really, physical affection and time together is how she shows her love. She's nothing if not dedicated, writing songs about those she cares for, and going above and beyond to ensure they're safe. If anyone worms their way into her heart, she'll never let go.*
 
-# Ask Game
+## Ask Game
 
-## Between *your* Family and *your* Lover, Who Would *you* Choose?
+### Between *your* Family and *your* Lover, Who Would *you* Choose?
 *[@urfriendlywriter](https://www.tumblr.com/urfriendlywriter/759321899272749056/what-will-your-character-do?source=share) on tumblr*
 
 …why not both? Is there no way I can choose both?
 
 *(Her heart is too big to choose one or the other. How could she when both are much too important to her? Isn't it cruel to force her to decide?)*
 
-## Between *you* and *your* Lover, Who Would *you* Choose?
+### Between *you* and *your* Lover, Who Would *you* Choose?
 *[@urfriendlywriter](https://www.tumblr.com/urfriendlywriter/759321899272749056/what-will-your-character-do?source=share) on tumblr*
 
 …Definitely her.
 
-## *A Gun on Their Hand, Pointed at Their beloved.*
+### *A Gun on Their Hand, Pointed at Their beloved.*
 *modified from [@urfriendlywriter](https://www.tumblr.com/urfriendlywriter/759321899272749056/what-will-your-character-do?source=share) on tumblr*
 
 :::danger[Trigger Warnings]

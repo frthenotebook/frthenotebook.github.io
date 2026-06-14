@@ -9,31 +9,31 @@ Their lover is left purposefully ambiguous. May refer to a canonical lover or a 
 
 > *Is this written in the POV of the character?* **Yes**
 
-# What is Love to *You*?
+## What is Love to *You*?
 
 Love is… unpredictable, in a way. It's a cause-and-effect chain of sorts, a cycle of hormones resulting in certain actions which beget a certain kind of understanding. It's a feeling that brings about an act of giving and taking, it seems; irrational expenditure on ones energy for the sake of pleasant comfort in another. It's irrational for one may simply expend more on a feeling that may not be reciprocated, or simply not when everything screams at them to try.
 
 Then again, it's not as though I can say all that with certainty. Surely one must be able to feel such affection to properly define the word, no?
 
-# How *You* Are when in Love
+## How *You* Are when in Love
 
 You know, I'd find this question more useful if you were to have asked someone else, for this question implies the respondent to have been in love in the first place. And, well, I don't quite fit the bill now, do I?
 
-# Ask Game
+## Ask Game
 
-## Between *Your* Family and *Your* Lover, Who Would *You* Choose?
+### Between *Your* Family and *Your* Lover, Who Would *You* Choose?
 *[@urfriendlywriter](https://www.tumblr.com/urfriendlywriter/759321899272749056/what-will-your-character-do?source=share) on tumblr*
 
 How... annoying. To think I would have to make that choice in the first place. 
 
 Believe me when I say I wouldn't side with either unless one is objectively more right than the other. It won't do to ignore the truth when one brings it to light in spectacular fashion. Though with the matters of the heart, I'm afraid I would choose neither. Surely I'd then have my own thoughts on the matter, no?
 
-## Between *You* and *Your* Lover, Who Would *You* Choose?
+### Between *You* and *Your* Lover, Who Would *You* Choose?
 *[@urfriendlywriter](https://www.tumblr.com/urfriendlywriter/759321899272749056/what-will-your-character-do?source=share) on tumblr*
 
 Call me calloused or arrogant, but I could fathom no scenario where I wouldn't choose myself over my lover.
 
-## *A Gun on Their Hand, Pointed at Their beloved.*
+### *A Gun on Their Hand, Pointed at Their beloved.*
 *modified from [@urfriendlywriter](https://www.tumblr.com/urfriendlywriter/759321899272749056/what-will-your-character-do?source=share) on tumblr*
 
 :::danger[Trigger Warnings]

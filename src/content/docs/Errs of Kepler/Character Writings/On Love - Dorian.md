@@ -9,13 +9,13 @@ Their lover is left purposefully ambiguous. May refer to a canonical lover or a 
 
 > *Is this written in the POV of the character?* **Yes**
 
-# What is Love to *You*?
+## What is Love to *You*?
 
 Love, hm? It's a chain of chemical reactions that elicit some kind of response from those who recognize it as love. It's some part joy and elation and desire, but there's also something indescribable about that feeling.
 
 ...Ha, I kid. That's probably what a classmate of mine will say when faced with the question. Not that they're necessarily wrong, per se, it's a valid enough take. But it feels rather cold, doesn't it?
 
-# How *You* Are when in Love
+## How *You* Are when in Love
 
 Perhaps caring is... one way to put it. I can't be sure of it myself, because I can't be sure if I was ever "in love" in a true fashion. But... hmm. There may be some degree of closeness I want from a partner. Time together, or having some shared presence... something like that.
 
@@ -23,29 +23,29 @@ Perhaps caring is... one way to put it. I can't be sure of it myself, because I 
 
 *Unwavering control and indescribable obsession. A need to understand what makes them tick and what makes them happy. The urge to optimize their every way of being until all that's left is contentment.*
 
-## Habits
+### Habits
 
 *Small talk, little trinkets, and warm hugs. Soft eyes and soft hands wrap around their body as they chide and tut playfully at their habits. He'll braid their hair and sing them songs, be anything they wish him to be. Just as long as he remains the one doing it, yeah?*
 
 *He nurses a cup of tea each morning, reading through the morning news. His schedule curated for the day, time set aside to meet with his lover. A small sigh escapes his lips as he cleans up. There's many to do each day, after all.*
 
-# Ask Game
+## Ask Game
 
-## Between *Your* Family and Their *Your*, Who Would *You* Choose?
+### Between *Your* Family and Their *Your*, Who Would *You* Choose?
 *[@urfriendlywriter](https://www.tumblr.com/urfriendlywriter/759321899272749056/what-will-your-character-do?source=share) on tumblr*
 
 My lover would be the right answer, wouldn't it? They would be an extension of myself, and it's human nature to side with one who you agree more with, is it not?
 
 *He knows that's not all there is to it, but cut him some slack. With the bulk of the context omitted, how is he to give a sufficient answer? But what he says is largely the truth. As much as he cares for his family, a lover is someone he would devote to until his dying breath.*
 
-## Between *You* and *Your* Lover, Who Would *You* Choose?
+### Between *You* and *Your* Lover, Who Would *You* Choose?
 *[@urfriendlywriter](https://www.tumblr.com/urfriendlywriter/759321899272749056/what-will-your-character-do?source=share) on tumblr*
 
 Good question... Hmm. I would choose my lover, of course, considering it's only right to put forth their needs before mine.
 
 *What's left unsaid is that his needs could be easily be met so long as his lover remains pleased. And it's not as though he imagines them ever disagreeing, no. The customer is always right, but then again, the customer reacts based on service received. So if he's any short of pleasant, well then it's on him, surely.*
 
-## *A Gun on Their Hand, Pointed at Their beloved.*
+### *A Gun on Their Hand, Pointed at Their beloved.*
 *modified from [@urfriendlywriter](https://www.tumblr.com/urfriendlywriter/759321899272749056/what-will-your-character-do?source=share) on tumblr*
 
 …A gun on my hands? It makes for a rather fascinating tale, but believe me when I say that would *never* happen.

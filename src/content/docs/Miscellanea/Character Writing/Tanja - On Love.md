@@ -9,39 +9,39 @@ Their lover is left purposefully ambiguous. May refer to a canonical lover or a 
 
 > *Is this written in the POV of the character?* **Yes** 
 
-# What is love to *you*?
+## What is love to *you*?
 
 Messy feelings that get in the way, especially in dire situations.
 
-# How are *you* when in love
+## How are *you* when in love
 
 We're not getting into that.
 
 *(Love is mechanical to Tanja. She has a system in place, as most do in her circumstances. Time is neatly set aside for them to simply coexist, under the covers by the flickering night stand. Her presence solid and her eyes soft, yet she flinches still at every slight movement.)*
 
-## Habits
+### Habits
 
 Next.
 
 *(Fairly traditional, fairly domestic. Social norms are one she learnt in her younger years, with two affectionate parents as her basis for love. There are rules in place, to be the doting partner they ought to be. Morning kisses, soft embraces, and fluffy omelets. Light walks, coffee dates, and pillow talks. At the end of each month, she'll bring her lover to bed and bring them to the heights of ecstasy as best as she could. Everything is in place.)*
 
-# Ask game
+## Ask game
 
-## Between *your* family and *your* lover, who would *you* choose?
+### Between *your* family and *your* lover, who would *you* choose?
 *[@urfriendlywriter](https://www.tumblr.com/urfriendlywriter/759321899272749056/what-will-your-character-do?source=share) on tumblr*
 
 Lover.
 
 *(Her parents are rather tough despite their appearances. She knows they'll live, and she knows they value her deeply. They won't be hurt by this decision, and she's very sure about that fact.)*
 
-## Between *you* and *your* lover, who would *you* choose?
+### Between *you* and *your* lover, who would *you* choose?
 _[@urfriendlywriter](https://www.tumblr.com/urfriendlywriter/759321899272749056/what-will-your-character-do?source=share) on tumblr_
 
 ...Lover.
 
 *(She'll survive. If she could go 30 years existing the way she did, what's one more?)*
 
-## *A gun on their hand, pointed at their beloved.*
+### *A gun on their hand, pointed at their beloved.*
 *modified from [@urfriendlywriter](https://www.tumblr.com/urfriendlywriter/759321899272749056/what-will-your-character-do?source=share) on tumblr*
 
 :::danger[Trigger Warnings]

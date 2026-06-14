@@ -9,7 +9,7 @@ Their lover is left purposefully ambiguous. May refer to a canonical lover or a 
 
 > *Is this written in the POV of the character?* **Yes**
 
-# What is love to *you*?
+## What is love to *you*?
 
 It's a... undeniable obsession. An insidious parasite that only exists to eat at you, prey on your weakness and leave you hollow. Or maybe it's not. How would I know?
 
@@ -19,7 +19,7 @@ It's a... undeniable obsession. An insidious parasite that only exists to eat at
 
 *(But as they learnt, the love is naught but an illusion. Where is love to be found when a lover tries to wring your neck in the name of divine pleasure?)*
 
-# How *you* are when in love
+## How *you* are when in love
 
 ...
 
@@ -27,29 +27,29 @@ It's a... undeniable obsession. An insidious parasite that only exists to eat at
 
 *(Word puzzles were the kid's bread and butter, so of course who was he to deny an invitation to play one every evening? And why would he quit if it made him forget what lies in wake the next day?)*
 
-## Habits
+### Habits
 
 ...I--
 
 *(Midnight chats and small conversations. Written poetry littered with trivia about language history. His tokens of affections were small and sweet, for what could an innocent kid provide if not small mercies?)*
 
-# Ask game
+## Ask game
 
-## Between *your* family and *your* lover, who would *you* choose?
+### Between *your* family and *your* lover, who would *you* choose?
 *[@urfriendlywriter](https://www.tumblr.com/urfriendlywriter/759321899272749056/what-will-your-character-do?source=share) on tumblr*
 
 ...Family.
 
 *(Not that they believe there's anyone to choose between. Perhaps their sister is one, but surely she's better left without him.)*
 
-## Between *you* and *your* lover, who would *you* choose?
+### Between *you* and *your* lover, who would *you* choose?
 _[@urfriendlywriter](https://www.tumblr.com/urfriendlywriter/759321899272749056/what-will-your-character-do?source=share) on tumblr_
 
 No one.
 
 *(I don't think they'll budge on that one.)*
 
-## *A gun on their hand, pointed at their beloved.*
+### *A gun on their hand, pointed at their beloved.*
 *modified from [@urfriendlywriter](https://www.tumblr.com/urfriendlywriter/759321899272749056/what-will-your-character-do?source=share) on tumblr*
 
 :::danger[Trigger Warnings]

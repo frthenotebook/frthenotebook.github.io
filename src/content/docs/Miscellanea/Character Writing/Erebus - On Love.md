@@ -9,7 +9,7 @@ Their lover is left purposefully ambiguous. May refer to a canonical lover or a 
 
 > *Is this written in the POV of the character?* **Yes**
 
-# What is Love to *You*?
+## What is Love to *You*?
 
 Love is… intense. Akin to a drug one can't get enough of. It clogs your every senses until all that's left is pure, unadulterated, joy. All from seeing those who you care about simply exist.
 
@@ -17,27 +17,27 @@ Love is… intense. Akin to a drug one can't get enough of. It clogs your every 
 
 *In a way, it is an absurd notion. One that exist to make things exclusive. To classify certain actions as one tinged in meaning. It's utterly subjective, at the end of the day, and what he spouts is one such definitions.*
 
-# How *You* are when in Love
+## How *You* are when in Love
 
 It's a rather bold assumption to think I've fallen in love before.
 
-## Habits
+### Habits
 
 Hmm? What is there to say?
 
-# Ask Game
+## Ask Game
 
-## Between *Your* Family and *Your* Lover, Who Would *You* Choose?
+### Between *Your* Family and *Your* Lover, Who Would *You* Choose?
 *[@urfriendlywriter](https://www.tumblr.com/urfriendlywriter/759321899272749056/what-will-your-character-do?source=share) on tumblr*
 
 Oh? But what if there's no one to choose from? Would my answer still hold any merit?
 
-## Between *You* and *Your* Lover, Who Would *You* Choose?
+### Between *You* and *Your* Lover, Who Would *You* Choose?
 *[@urfriendlywriter](https://www.tumblr.com/urfriendlywriter/759321899272749056/what-will-your-character-do?source=share) on tumblr*
 
 Under the assumption my lover doesn't exist, then I would choose myself, of course. Oh, but if they do exist, then what would entail if I were to choose them over myself?
 
-## *A Gun on Their Hand, Pointed at Their beloved.*
+### *A Gun on Their Hand, Pointed at Their beloved.*
 *modified from [@urfriendlywriter](https://www.tumblr.com/urfriendlywriter/759321899272749056/what-will-your-character-do?source=share) on tumblr*
 
 :::danger[Trigger Warnings]

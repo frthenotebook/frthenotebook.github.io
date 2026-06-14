@@ -4,16 +4,16 @@ description: This is a page in my Starlight-powered site
 ---
 
 :::note[Author's Note]
-Exclusively for random notes that may or may not be alluded to in other docs. Generally a one-stop-shop for lore. Sectioned by date.
+Exclusively for random notes that may or may not be alluded to in other docs. Generally a one-stop-shop for lore.
 :::
 
-## The Facility
+#### The Facility
 - unnamed bureaucratic hellhole with international connections and a lab hierarchy. 
 - has a director (offstage, took over from a former head who had more ethical concerns) and is large enough that Vivienne occupies a lab manager-ish position rather than being in charge. 
 - develops *proto-real-form mannequins* (Model A currently, implying a lineage) that simulate human anatomy with increasing realism including pseudo-blood and eventually organic materials of unspecified origin. 
 	- likely product/research goal: convincing human simulacra, possibly combat automata. testing durability and psychological response simultaneously.
 
-## Sid (A3-2837)
+#### Sid (A3-2837)
 - 23 at time of documentation, arrived at 19 in 2021. 
 - from Contrella, Dovebille, eldest of three, relatively normal family (present parents, strict dad, worrywart mom). 
 - Voschik Academy records are exaggerated bureaucratic misrepresentation — "threats of bodily harm" were kys jokes to teachers, "inability to follow instructions" was knowing better and doing it anyway. 
@@ -26,7 +26,7 @@ Exclusively for random notes that may or may not be alluded to in other docs. Ge
 - has hypertrophic scars on left elbow. 
 - design: black hair with dirty blond streaks, messy long bangs tied up high, dead grey eyes, heavy bags, compression shirt, low-waist cargos, combat boots, long coat, corset belt, fingerless glove one hand, rings other hand. monochromatic with one accent color, probably muted green. 
 
-## Vivienne Ernstwood
+#### Vivienne Ernstwood
 - brought Sid in under her directives, describes relationship as familial (his parents don't recognize her, so pre-facility contact was institutional/hidden, likely juvie adjacent). 
 - self-righteous, selfish, dresses it up as good cause. curious first, justification layer second. 
 - was primary caretaker for Morrigan their whole life — her model of care involves having total authority over people she's claimed. 
@@ -34,7 +34,7 @@ Exclusively for random notes that may or may not be alluded to in other docs. Ge
 - sees potential in Sid, nature of potential still TBD. 
 - meets with Sid every two months, dynamic is mutual assured passive aggression in polite speak. reads his complaints in Morrigan's reports as confirmation of her thesis. engineered the calendar so Vivienne check-in precedes Morrigan's psych assessment. 
 
-## Morrigan Ernstwood 
+#### Morrigan Ernstwood 
 - Vivienne's younger sibling. 
 - sad wet cat core of a man. 
 - objected to Sid being brought in in 2021 ("he's a KID"), got overruled, has been quietly compromised ever since. 
@@ -47,7 +47,7 @@ Exclusively for random notes that may or may not be alluded to in other docs. Ge
 	- *it is very important to note that only Vivienne does this, and only she has the privilege of "getting this close"*
 - looks more put together than he is.
 
-## Nilar L. Zupančič
+#### Nilar L. Zupančič
 - "I am a mother of two unruly children who won't listen but good lord I love them." 
 - clocked immediately by Sid as safe — familiar energy, known boundaries, hasn't harmed him. 
 - handles Gio's assessment aftermath by handing Sid cotton balls and not making it a thing. 
@@ -56,17 +56,17 @@ Exclusively for random notes that may or may not be alluded to in other docs. Ge
 - "honestly what is the point of giving you meds if you're not taking them." 
 - operates within the system while being quietly on his side through small acts.
 
-## Gioconda R. Saidova
+#### Gioconda R. Saidova
 - behavioural assessments specialist. 
 - creepy per Sid, which given Sid's baseline means something. runs the libido assessment with deeply unsettling plausible deniability cadence — "coerced? oh no, none of that, no." Sid kicked him in response. Sid is not guilty about this. 
 - the awfulness is institutional and procedural, has builtin deniability. Nilar knows.
 
-## Samar Vinter
+#### Samar Vinter
 - just an ass. Sid bit him. 
 - Samar complained to Vivienne who suggested talking to Morrigan, Samar called Morrigan a wimp. 
 - physical check-up supervisor among other things.
 
-## Key dynamics
+#### Key dynamics
 - Sid tried to get information from Morrigan early on, got non-answers, gave up and redirected into performing for the camera instead. apologizes after a few days when he crosses a line. genuine fondness expressed sideways.
 - Morrigan knows things Sid doesn't and can't say them. built the cage more comfortable because he couldn't open it. now complicit in something he can't name out loud.
 - Vivienne gave Sid to Morrigan specifically — "look at this fascinating thing" as sibling impulse, also now Morrigan is four years deep and emotionally compromised and that's probably also data she's collecting.

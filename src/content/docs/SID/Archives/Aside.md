@@ -3,13 +3,13 @@ title: A3-2837 - Aside
 description: This is a page in my Starlight-powered site
 ---
 
-# Notable Relations
+## Notable Relations
 
 :::note[Author's Note]
 It's a work in progress lol.
 :::
 
-## Vivienne Ernstwood
+### Vivienne Ernstwood
 
 **Sid** is brought into the facility under her directives. Vivienne is unwilling to divulge her relationship with the subject, but mentions it to be familial. The subject's parents, however, don't appear to recognize the Vivienne in any capacity.
 
@@ -21,7 +21,7 @@ Within the first two weeks, we compared Sid's responses to both Morrigan Ernstwo
 
 - Morrigan Ernstwood: Vivienne's sibling. She reports that the two of them are particularly close. Often caught cupping Morrigan's face before calling him "Mori" or a few other nicknames.
 
-## Morrigan Ernstwood
+### Morrigan Ernstwood
 
 **Personnel ID**:
 **Station**:
@@ -38,7 +38,9 @@ Within the first two weeks, we compared Sid's responses to both Morrigan Ernstwo
 
 - Vivienne Ernstwood: Morrigan's sibling. He reports that they don't often see eye-to-eye. Vivienne frequently cups his face as a token of affection; Morrigan claims he is often uncomfortable but cannot stop her.
 
-# Quotes: Sid
+## Quotes
+
+### Sid
 
 - Ah, it bled again
 - Are my eyes red? It's the tears, really. Kinda annoying if ya think about it.
@@ -50,7 +52,7 @@ Within the first two weeks, we compared Sid's responses to both Morrigan Ernstwo
 - …sometimes they go give me jelly. Never when I ask though. And it's always the same old combination. A sorbet with syrup, strawberry jelly and whatever those white cubes are. They say it's "nata de coco". Like coconuts, I assume. Doesn't taste like them though.
 - They told me to stop sleeping on the rug, which is rather rude. I told them that the bed is too soft but they won't listen. So why should I? Besides, the rug is fluffy.
 
-# Quotes: Other
+### Other
 
 - …Vivienne, are you sure about bringing the kid in? (Morrigan, 2021)
 	- He's not-- *He's a kid!* (Morrigan, 2021)

@@ -54,18 +54,18 @@ Lovely. Let's proceed to the next scenario.
 
 `Surface Report ID: A3-2837-F0001`
 
-**SUBJECT CODE**: **A3-2837**
-**CLASSIFIER**: Class A, Sub entry 3 (**Common - Unstable**)
-**UID**: 2837
+**SUBJECT CODE**: **A3-2837** <br>
+**CLASSIFIER**: Class A, Sub entry 3 (**Common - Unstable**) <br>
+**UID**: 2837 <br>
 
-**Name**: Sid
-**Gender**: Male
-**Sex**: Male
-**Age**: 23
-**Height**: 178.6 cm
-**Weight**: 74.3 kg
-**Blood Type**: A-
-**Birthday**: 2002-02-04
+**Name**: Sid <br>
+**Gender**: Male <br>
+**Sex**: Male <br>
+**Age**: 23 <br>
+**Height**: 178.6 cm <br>
+**Weight**: 74.3 kg <br>
+**Blood Type**: A- <br>
+**Birthday**: 2002-02-04 <br>
 
 **Appearance**: Long black hair with blond streaks, gray eyes, freckles on face and shoulders, hypertrophic scars on left elbow
 
@@ -92,7 +92,7 @@ Lovely. Let's proceed to the next scenario.
 **Alias**: Sid  
 **Supervisor**: Dr. Morrigan Ernstwood
 
-Sid enters the room at exactly 20:00:00, having previously briefed on the task. Subject harbors bruises obtained from the previous trial, yet his gait remains uninhibited.
+Sid enters the room at `20:00:00`, having previously briefed on the task. Subject harbors bruises obtained from the previous trial, yet his gait remains uninhibited.
 
 Sid is observed to be surveying the room, tracing the walls with his palm. His face scrounges up briefly, before relaxing into his standard resting face. 
 
@@ -124,24 +124,24 @@ He pulls back to take away nothing from the mannequin outside of his hand, now c
 
 Sid's eyes wander into the cameras, right hand still on the wall.
 
-\[20:08:49] **Sid**: "Hey, Doc. Tastes like strawberry jelly. How nice of you."
-\[20:08:52] **Sid**: "Should've added a knife in the room. Would be much handier than these axes."
+`[20:08:49]` **Sid**: "Hey, Doc. Tastes like strawberry jelly. How nice of you."
+`[20:08:52]` **Sid**: "Should've added a knife in the room. Would be much handier than these axes."
 
 Sid grins, picking up the hatchet from the table and approaches the fallen mannequin body. He straightens its arms before slowly chopping its limbs and fingers. The subject picks one finger up, bringing it close to his mouth. Loud crunching can be heard from the microphone.
 
-\[20:14:35] **Sid**: "Surprisingly edible. 's (slurred) not poison, right?"
+`[20:14:35]` **Sid**: "Surprisingly edible. 's (slurred) not poison, right?"
 
 There is a brief moment of silence. Sid appears flustered; his eyes widen and his hand stills.
 
 > \[MARGINALIA] Likely exaggerated. Behavior doesn't match his typical patterns of anxiety.
 
-\[20:15:06] **Sid**: "Ha. Would be fun if it is. Not like you're going to say shit about it."
+`[20:15:06]` **Sid**: "Ha. Would be fun if it is. Not like you're going to say shit about it."
 
 Sid laughs for a few seconds before lifting the mannequin head. He kisses the puncture wound before drop-kicking it towards the camera. It fails to hit, and the subject laughs again.
 
-\[20:17:17] **Sid**: "I'll get it next time."
+`[20:17:17]` **Sid**: "I'll get it next time."
 
-Sid leaves the room at 20:18:15.
+Sid leaves the room at `20:18:15`.
 
 > \[MARGINALIA] ~~I do not understand this man.~~
 
@@ -222,7 +222,7 @@ Last update: `2025-06-13`
 **Alias**: Sid
 **Supervisor**: Dr. Morrigan Ernstwood
 
-Sid enters the room at exactly 16:25:00, having previously briefed on the task. No injuries are carried over from previous tasks.
+Sid enters the room at exactly `16:25:00`, having previously briefed on the task. No injuries are carried over from previous tasks.
 
 Subject notices the items on the center table, picking the gun up with no issue. He moves the gun into his pocket. 
 
@@ -232,27 +232,27 @@ A loud crash can be heard from the microphones. Light splatters of pseudo-blood 
 
 Subject's heart rate rises, knuckles white as his left hand grips the mannequin's neck. His right hand moves to aim the gun towards his jugular.
 
-\[16:28:14] **Sid**: "A shot to the jugular, and bang. You're done for!"
-\[16:28:17] **Sid**: "Though that assumes you don't flinch, huh, Doc?"
+`[16:28:14]` **Sid**: "A shot to the jugular, and bang. You're done for!"
+`[16:28:17]` **Sid**: "Though that assumes you don't flinch, huh, Doc?"
 
 The subject pulls the trigger; the gun clicks. Sid tosses his head upwards as he pushes the mannequin's neck further in.
 
 Sid huddles closer into the mannequin, grip not leaving the neck.
 
-\[16:29:28] **Sid**: "Wish I could see your face right now... Might've been hilarious"
+`[16:29:28]` **Sid**: "Wish I could see your face right now... Might've been hilarious"
 
 Sid sighed, releasing the mannequin. His heart rate is reported to return to baseline. 
 
 Sid tosses the gun upwards, catching it before tossing it to the camera. It fails to hit.
 
-\[16:30:18] **Sid**: "Say, can the recoil kill? Blow someone to bits?"
+`[16:30:18]` **Sid**: "Say, can the recoil kill? Blow someone to bits?"
 
 Sid circles the room.
 
-\[16:30:36] **Sid**: "Eh. Not like it matters."
+`[16:30:36]` **Sid**: "Eh. Not like it matters."
 
 Sid kicks the fallen mannequin before looking at the camera. He blinks once before walking to leave.
 
-Sid leaves the room at 16:31:48.
+Sid leaves the room at `16:31:48`.
 
 The shells remain untouched.

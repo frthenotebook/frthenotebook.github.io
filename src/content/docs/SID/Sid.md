@@ -4,7 +4,7 @@ description: This is a page in my Starlight-powered site
 ---
 
 :::danger[Trigger Warnings]
-**Graphic violence, Blood/gore, Self-harm adjacent**, Depression (implied), **Simulated cannibalism**, Gun violence
+**Graphic violence, Blood/gore** *(prose)* **, Self-harm adjacent**, Depression (implied), **Simulated cannibalism** *(FILE A3-2837-L0238)*, Gun violence
 :::
 
 `FILE A3-2837-L0238` | `ENTRY 035: Appendix A` | `2025-05-29 17:25:38`

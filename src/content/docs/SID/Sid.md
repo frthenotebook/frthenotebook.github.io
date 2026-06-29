@@ -67,7 +67,7 @@ Lovely. Let's proceed to the next scenario.
 **Blood Type**: A- <br>
 **Birthday**: 2002-02-04 <br>
 
-**Appearance**: Long black hair with blond streaks, gray eyes, freckles on face and shoulders, hypertrophic scars on left elbow
+**Appearance**: Long black hair with blond streaks, green eyes, freckles on face and shoulders, hypertrophic scars on left elbow
 
 **Entry date**: 2021-10-11
 

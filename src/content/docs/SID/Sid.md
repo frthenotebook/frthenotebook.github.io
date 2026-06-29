@@ -179,7 +179,7 @@ Last update: `2025-06-13`
 
 | Visitation                            | Type of visit | Supervisor          | Date       |
 | ------------------------------------- | ------------- | ------------------- | ---------- |
-| PERFORATED LACERATIONS                | Treatment     | Nilar L. Zupančič   | 2025-05-14 |
+| SKIN LACERATIONS                | Treatment     | Nilar L. Zupančič   | 2025-05-14 |
 | Physical check-up                     | Check-up      | Samar Vinter        | 2025-05-23 |
 | Psychological assessment - Interview  | Assessment    | Morrigan Ernstwood  | 2025-05-29 |
 | Psychological assessment - Simulation | Assessment    | Morrigan Ernstwood  | 2025-05-30 |

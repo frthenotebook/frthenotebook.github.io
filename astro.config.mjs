@@ -31,10 +31,11 @@ export default defineConfig({
 				'@fontsource/syne-tactile',
 				'@fontsource/dm-mono/400.css',
 				'@fontsource/dm-mono/500.css',
-				'@fontsource-variable/dm-sans/wght.css',
+				// '@fontsource-variable/dm-sans/wght.css',
+				'@fontsource-variable/eb-garamond/wght.css',
 				// Custom CSS file for additional styles.
-				'./src/styles/custom.css',
-				'./src/styles/colors.css'
+				'./src/styles/mono-colors.css',
+				'./src/styles/custom.css'
 			],
 			logo: {
 				light: './src/assets/clover.svg',

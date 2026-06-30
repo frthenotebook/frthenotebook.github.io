@@ -1,9 +1,9 @@
 :root {
-  --sl-font: 'DM Mono', sans-serif;
-  --sl-font-heading: 'DM Sans Variable', sans-serif;
+  --sl-font: 'EB Garamond Variable', serif;
+  --sl-font-heading: 'EB Garamond Variable', serif;
   --sl-font-title: 'Syne Tactile', monospace;
   --font-mono: 'DM Mono', monospace;
-  --font-letter-spacing: -0.9px;
+  --font-letter-spacing: normal;
 }
 
 body {
@@ -21,4 +21,20 @@ h1, h2, h3, h4, h5, h6 {
 
 .MathJax svg {
   display: inline!important;
+}
+
+table {
+  border-top: 1.5px solid var(--sl-color-white);
+  border-bottom: 1.5px solid var(--sl-color-white);
+  table-layout: fixed;
+  width: 100%;
+  display: table;
+}
+
+th {
+  border-bottom: 1px solid var(--sl-color-white);
+}
+
+td {
+  border-bottom: 0;
 }

@@ -35,7 +35,7 @@ export default defineConfig({
 				'@fontsource-variable/eb-garamond/wght.css',
 				// Custom CSS file for additional styles.
 				'./src/styles/mono-colors.css',
-				'./src/styles/custom.css'
+				'./src/styles/custom.css',
 			],
 			logo: {
 				light: './src/assets/clover.svg',
@@ -60,11 +60,13 @@ export default defineConfig({
 				}
 			],
 			sidebar: [
+				{ label: 'Home', link: '/' },
 				{
 					label: 'Read me!',
 					items: [
 						// Each item here is one entry in the navigation menu.
-						{ label: 'Introduction', slug: 'index' },
+						// { label: 'About', link: '/' },
+						{ label: 'Introduction', slug: 'intro' },
 						{ label: 'Development Log', slug: 'devlog' },
 					],
 				},

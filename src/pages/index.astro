@@ -1,10 +1,12 @@
 ---
-title: "Test Landing Page"
+title: "Landing page"
 import StarlightPage from '@astrojs/starlight/components/StarlightPage.astro';
 
 import { Image } from 'astro:assets';
 import profile from "../assets/images/Profile.png"; // Image is 1600x900
 import testChibi from "../assets/images/test-chibi.png"; // Image is 1600x900
+import sid from "../assets/images/sid-chibi.png"; // Image is 1600x900
+import nakao from "../assets/images/nakao-chibi.png"; // Image is 1600x900
 
 import "../styles/mono-colors.css";
 import "../styles/landing.css";
@@ -68,7 +70,7 @@ import "../styles/custom.css";
                             </tr>
                             <tr>
                                 <td class="col-head">Age</td>
-                                <td>18+ <i>(born @ 2006)</i></td>
+                                <td>18+ <i>(born in 2006)</i></td>
                             </tr>
                             <tr>
                                 <td class="col-head">Languages</td>
@@ -76,15 +78,12 @@ import "../styles/custom.css";
                             </tr>
                         </tbody>
                     </table>
-                    <div class="featured-chars">
-                        <a href="../sid/sid" title="Character1">
-                            <Image src={testChibi} alt="Chibi 1" class="chara"/>
+                   <div class="featured-chars">
+                        <a href="../miscellanea/character-info/yukiko-nakao/" title="Yuu Nakao">
+                            <Image src={nakao} alt="Nakao" class="chara"/>
                         </a>
-                        <a href="../sid/sid" title="Character2">
-                            <Image src={testChibi} alt="Chibi 1" class="chara"/>
-                        </a>
-                        <a href="../sid/sid" title="Character3">
-                            <Image src={testChibi} alt="Chibi 1" class="chara"/>
+                        <a href="../sid/sid" title="Sid">
+                            <Image src={sid} alt="Sid" class="chara"/>
                         </a>
                     </div>
                 </div>

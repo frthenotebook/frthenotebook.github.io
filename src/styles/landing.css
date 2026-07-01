@@ -60,8 +60,8 @@
 }
 
 .main .featured-chars .chara {
-    /* width: 100px; */
-    width:75px;
+    height: 200px;
+    width: auto;
     /* object-fit: cover; */
     /* border-radius: 50%; */
     margin: 15px auto;

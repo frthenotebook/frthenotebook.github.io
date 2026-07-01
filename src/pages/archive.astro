@@ -1,0 +1,16 @@
+---
+import StarlightPage from '@astrojs/starlight/components/StarlightPage.astro';
+const allPosts = Object.values(import.meta.glob('../content/docs/*/*.md', { eager: true }));
+---
+<StarlightPage 
+    frontmatter={{ 
+        title: 'Archive',
+        next: false,
+        prev: false,
+        pagefind: false,
+    }}
+>
+    <ul>
+        {allPosts.map((post: any) => <li><a href={post.url}>{post.frontmatter.title}</a></li>)}
+    </ul>
+</StarlightPage>

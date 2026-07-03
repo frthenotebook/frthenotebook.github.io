@@ -154,7 +154,7 @@
 }
 
 .featured-chars .chara {
-    height: 200px;
+    max-height: 200px;
     width: auto;
     /* object-fit: cover; */
     /* border-radius: 50%; */

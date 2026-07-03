@@ -1,7 +1,8 @@
 :root {
   --sl-font: 'EB Garamond Variable', serif;
   --sl-font-heading: 'EB Garamond Variable', serif;
-  --sl-font-title: 'Syne Tactile', monospace;
+  /* --sl-font-title: 'Syne Tactile', monospace; */
+  --sl-font-title: 'EB Garamond Variable', serif;
   --font-mono: 'DM Mono', monospace;
   --font-letter-spacing: normal;
 }

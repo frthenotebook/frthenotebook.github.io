@@ -28,7 +28,7 @@ export default defineConfig({
 			],
 			customCss: [
 				// Fontsource files for to regular and semi-bold font weights.
-				'@fontsource/syne-tactile',
+				// '@fontsource/syne-tactile',
 				'@fontsource/dm-mono/400.css',
 				'@fontsource/dm-mono/500.css',
 				// '@fontsource-variable/dm-sans/wght.css',

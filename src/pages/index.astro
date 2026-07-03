@@ -4,7 +4,6 @@ import StarlightPage from '@astrojs/starlight/components/StarlightPage.astro';
 
 import { Image } from 'astro:assets';
 import profile from "../assets/images/Profile.png"; // Image is 1600x900
-import testChibi from "../assets/images/test-chibi.png"; // Image is 1600x900
 import sid from "../assets/images/sid-chibi.png"; // Image is 1600x900
 import nakao from "../assets/images/nakao-chibi.png"; // Image is 1600x900
 
@@ -13,13 +12,14 @@ import "../styles/landing.css";
 import "../styles/custom.css";
 
 ---
+
 <StarlightPage 
     frontmatter={{ 
         title: 'About',
         template: 'splash',
-        banner: {
-            content: 'Under construction',
-        },
+        // banner: {
+        //     content: 'Under construction',
+        // },
         next: false,
         prev: false,
         pagefind: false,
@@ -29,66 +29,128 @@ import "../styles/custom.css";
     <html lang="en">
         <body>
             <div class="container">
-                <div class="aside">
-                    <!-- <img src="../assets/images/Profile.png" alt="Logo" class="logo"> -->
-                    <Image src={profile} alt="Profile picture" class="logo"/>
-                    <button class="collapsible">show description</button>
-                    <div class="content">
-                        <div class="description">
-                            <p><b>CS Undergrad who sometimes draws and occasionally writes.</b> Artistic sensibilities tend to fly out of the window in favor of function. If you think this looks and feels like a LaTex document, it probably does.</p>
-                        </div>
-                        <div class="socials">
-                            <a href="https://unvale.io/frtheatelier" class="social-link">unvale</a>
-                            <a href="https://frthenotebook.tumblr.com/" class="social-link">tumblr</a>
-                            <a href="https://artfight.net/~frtheatelier" class="social-link">artfight</a>
-                        </div>
-                        <!-- <div class="stats">
-                            Posts: 10<br>
-                            Followers: 100
-                        </div> -->
+                <!-- <img src="../assets/images/Profile.png" alt="Logo" class="logo"> -->
+                <Image src={profile} alt="Profile picture" class="logo"/>
+                <div class="header">
+                    <h1>Shi</h1>
+                    <span class="handle">@frtheatelier</span>
+                    <p>
+                        <b>aliases:</b> frtheatelier, frthenotebook, arashiitake
+                    </p>
+                </div>
+                <div class="about">
+                    <div class="description">
+                        <b>CS Undergrad who sometimes draws and occasionally writes.</b> 
+                        Artistic sensibilities tend to fly out of the window in favor of function. If you think this looks and feels like a LaTeX document, it probably does.
+                    </div>
+                    <div class="tag-group">
+                        <div class="tag">2006</div>
+                        <div class="tag">they/them</div>
+                        <div class="tag">EN, ID</div>
+                        <div class="tag">Based in CA</div>
+                        <div class="tag">Ace-spec</div>
+                        <div class="tag">NB (demiwoman)</div>
+                        <div class="tag dotted">INTP</div>
+                        <div class="tag dotted">9w1</div>
+                        <div class="tag dotted">Virgo</div>
                     </div>
                 </div>
-                <div class="main">
-                    <div class="header">
-                        <h1>Shi</h1>
-                        <span class="handle">@frtheatelier</span>
+                <div class="seperator">
+                    <img src="https://frtheatelier.github.io/random-assets/art-fight/suits.png" class="suits">
+                </div>
+                <div class="collapsibles">
+                    <div class="collapsible-group">
+                        <button class="collapsible">before you interact</button>
+                        <div class="byi">
+                            <p>
+                                <b>Just be respectful of my boundaries and maintain basic human decency. Respect others’ rights to exist in fandom space. </b> 
+                            </p>
+                            <p>
+                                See something you don’t like? Don’t interact, block, and move on; I will do the same. I am not going to judge you for your interests or your preferences. 
+                            </p>
+                            <p>
+                                Socials are linked below. I am also in few other platforms besides the listed ones (same handle). That said, I am most active on tumblr.
+                            </p>
+                        </div>
                     </div>
-                    <table>
-                        <tbody>
-                            <tr>
-                                <td class="col-head">Pseuds</td>
-                                <td>
-                                    <ul>
-                                        <li>Mains: frtheatelier, frthenotebook</li>
-                                        <li>Fandom: arashiitake</li>
-                                    </ul>
-                                </td>
-                            </tr>
-                            <tr>
-                                <td class="col-head">Pronouns</td>
-                                <td>they/them</td>
-                            </tr>
-                            <tr>
-                                <td class="col-head">Age</td>
-                                <td>18+ <i>(born in 2006)</i></td>
-                            </tr>
-                            <tr>
-                                <td class="col-head">Languages</td>
-                                <td>EN/ID <i>(currently learning FR)</i></td>
-                            </tr>
-                        </tbody>
-                    </table>
-                   <div class="featured-chars">
-                        <a href="../miscellanea/character-info/yukiko-nakao/" title="Yuu Nakao">
-                            <Image src={nakao} alt="Nakao" class="chara"/>
-                        </a>
-                        <a href="../sid/sid" title="Sid">
-                            <Image src={sid} alt="Sid" class="chara"/>
-                        </a>
+                    <div class="collapsible-group">
+                        <button class="collapsible">fandoms and media</button>
+                        <div class="fandoms">
+                            <div class="row-item">
+                                <span class="topic">Fandom</span>
+                                <div class="tag-group">
+                                    <div class="tag">TWST</div>
+                                    <div class="tag">R1999</div>
+                                    <div class="tag dotted">YTTD</div>
+                                    <div class="tag dotted">MHA</div>
+                                </div>
+                            </div>
+                            <div class="row-item">
+                                <span class="topic">Faves</span>
+                                <div class="tag-group">
+                                    <div class="tag">Trey Clover</div>
+                                    <div class="tag">Enigma</div>
+                                    <div class="tag">37</div>
+                                    <div class="tag dotted">Deuce Spade</div>
+                                    <div class="tag dotted">Ortho Shroud</div>
+                                    <div class="tag dotted">Rook Hunt</div>
+                                    <div class="tag dotted">Sou (Shin Tsukimi)</div>
+                                    <div class="tag dotted">Lorentz Butterfly</div>
+                                    <div class="tag dotted">Hitoshi Shinso</div>
+                                    <div class="tag dotted">Izuku Midoriya</div>
+                                    <div class="tag dotted">Shota Aizawa</div>
+                                </div>
+                            </div>
+                            <div class="row-item">
+                                <span class="topic">Playing</span>
+                                <div class="tag-group">
+                                    <div class="tag">Cursed Words</div>
+                                    <div class="tag dotted">Phigros</div>
+                                    <div class="tag dotted">Balatro</div>
+                                </div>
+                            </div>
+                            <div class="row-item">
+                                <span class="topic">Music genres</span>
+                                <div class="tag-group">
+                                    <div class="tag">Breakcore</div>
+                                    <div class="tag">Alt/Indie (generally)</div>
+                                    <div class="tag dotted">Rock</div>
+                                    <div class="tag dotted">Dark Cabaret</div>
+                                    <div class="tag dotted">Vocaloid</div>
+                                </div>
+                            </div>
+                            <div class="row-item">
+                                <span class="topic">Music artists</span>
+                                <div class="tag-group">
+                                    <div class="tag">AZALI</div>
+                                    <div class="tag dotted">Frums</div>
+                                    <div class="tag dotted">Marzuku</div>
+                                    <div class="tag dotted">Xeolt</div>
+                                    <div class="tag dotted">Dirt Poor Robins</div>
+                                    <div class="tag dotted">t+pazolite</div>
+                                </div>
+                            </div>
+                        </div>
                     </div>
                 </div>
+                <div class="featured-chars">
+                    <a href="../miscellanea/character-info/yukiko-nakao/" title="Yuu Nakao">
+                        <Image src={nakao} alt="Nakao" class="chara"/>
+                    </a>
+                    <a href="../sid/sid" title="Sid">
+                        <Image src={sid} alt="Sid" class="chara"/>
+                    </a>
+                </div>
+                <div class="socials">
+                    <a href="https://unvale.io/frtheatelier" class="social-link">unvale</a>
+                    <a href="https://frthenotebook.tumblr.com/" class="social-link">tumblr</a>
+                    <a href="https://artfight.net/~frtheatelier" class="social-link">artfight</a>
+                </div>
+                <div class="seperator">
+                    <img src="https://frtheatelier.github.io/random-assets/art-fight/suits.png" class="suits">
+                </div>
+                <a href="../intro" class="see-more">peruse the archives</a>
             </div>
-            <a href="../intro" class="see-more">peruse the archives</a>
             <script>
                 var coll = document.getElementsByClassName("collapsible");
                 var i;

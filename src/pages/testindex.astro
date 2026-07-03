@@ -1,0 +1,111 @@
+---
+title: "Landing page"
+import StarlightPage from '@astrojs/starlight/components/StarlightPage.astro';
+
+import { Image } from 'astro:assets';
+import profile from "../assets/images/Profile.png"; // Image is 1600x900
+import testChibi from "../assets/images/test-chibi.png"; // Image is 1600x900
+import sid from "../assets/images/sid-chibi.png"; // Image is 1600x900
+import nakao from "../assets/images/nakao-chibi.png"; // Image is 1600x900
+
+import "../styles/mono-colors.css";
+import "../styles/landing2.css";
+import "../styles/custom.css";
+
+---
+<StarlightPage 
+    frontmatter={{ 
+        title: 'About',
+        template: 'splash',
+        banner: {
+            content: 'Archived',
+        },
+        next: false,
+        prev: false,
+        pagefind: false,
+    }}
+    hasSidebar={false}
+>
+    <html lang="en">
+        <body>
+            <div class="container">
+                <div class="aside">
+                    <!-- <img src="../assets/images/Profile.png" alt="Logo" class="logo"> -->
+                    <Image src={profile} alt="Profile picture" class="logo"/>
+                    <button class="collapsible">show description</button>
+                    <div class="content">
+                        <div class="description">
+                            <p><b>CS Undergrad who sometimes draws and occasionally writes.</b> Artistic sensibilities tend to fly out of the window in favor of function. If you think this looks and feels like a LaTex document, it probably does.</p>
+                        </div>
+                        <div class="socials">
+                            <a href="https://unvale.io/frtheatelier" class="social-link">unvale</a>
+                            <a href="https://frthenotebook.tumblr.com/" class="social-link">tumblr</a>
+                            <a href="https://artfight.net/~frtheatelier" class="social-link">artfight</a>
+                        </div>
+                        <!-- <div class="stats">
+                            Posts: 10<br>
+                            Followers: 100
+                        </div> -->
+                    </div>
+                </div>
+                <div class="main">
+                    <div class="header">
+                        <h1>Shi</h1>
+                        <span class="handle">@frtheatelier</span>
+                    </div>
+                    <table>
+                        <tbody>
+                            <tr>
+                                <td class="col-head">Pseuds</td>
+                                <td>
+                                    <ul>
+                                        <li>Mains: frtheatelier, frthenotebook</li>
+                                        <li>Fandom: arashiitake</li>
+                                    </ul>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td class="col-head">Pronouns</td>
+                                <td>they/them</td>
+                            </tr>
+                            <tr>
+                                <td class="col-head">Age</td>
+                                <td>18+ <i>(born in 2006)</i></td>
+                            </tr>
+                            <tr>
+                                <td class="col-head">Languages</td>
+                                <td>EN/ID <i>(currently learning FR)</i></td>
+                            </tr>
+                        </tbody>
+                    </table>
+                   <div class="featured-chars">
+                        <a href="../miscellanea/character-info/yukiko-nakao/" title="Yuu Nakao">
+                            <Image src={nakao} alt="Nakao" class="chara"/>
+                        </a>
+                        <a href="../sid/sid" title="Sid">
+                            <Image src={sid} alt="Sid" class="chara"/>
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <a href="../intro" class="see-more">peruse the archives</a>
+            <script>
+                var coll = document.getElementsByClassName("collapsible");
+                var i;
+
+                for (i = 0; i < coll.length; i++) {
+                    coll[i].addEventListener("click", function(this: HTMLElement) {
+                        const button = this;
+                        const content = button.nextElementSibling as HTMLElement;
+                        button.classList.toggle("active");
+                        if (content.style.maxHeight){
+                            content.style.maxHeight = null;
+                        } else {
+                            content.style.maxHeight = content.scrollHeight + "px";
+                        }
+                    });
+                }
+            </script>
+        </body>
+    </html>
+</StarlightPage>

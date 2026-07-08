@@ -6,7 +6,7 @@ description: This is a page in my Starlight-powered site
 ## Notable Relations
 
 :::note[Author's Note]
-It's a work in progress lol.
+Work in progress
 :::
 
 ### Vivienne Ernstwood

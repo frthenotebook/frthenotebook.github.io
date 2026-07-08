@@ -1,5 +1,5 @@
 ---
-title: A3-2837
+title: Subject A3-2837
 description: This is a page in my Starlight-powered site
 ---
 

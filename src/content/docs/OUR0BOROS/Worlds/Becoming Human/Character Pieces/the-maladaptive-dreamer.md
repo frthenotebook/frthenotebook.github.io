@@ -3,6 +3,10 @@ title: The Maladaptive Dreamer
 description: This is a page in my Starlight-powered site
 ---
 
+:::note[Author's note]
+Unfinished work, but I think it is still informative for her character.
+:::
+
 > *Isabella Leicester, 14, few days after her adoption*
 
 "The sunset is quite beautiful today, isn't it?" a voice chimes by her side.

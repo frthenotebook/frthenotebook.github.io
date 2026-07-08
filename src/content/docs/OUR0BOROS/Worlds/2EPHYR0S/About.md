@@ -1,5 +1,5 @@
 ---
-title: 2EPHYR0S
+title: README
 description: This is a page in my Starlight-powered site
 ---
 

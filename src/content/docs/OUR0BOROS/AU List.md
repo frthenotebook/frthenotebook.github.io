@@ -13,7 +13,7 @@ description: This is a page in my Starlight-powered site
 **KEY IDEA:**
 - *What makes a human?*
 - Tackles if humanity is what people make of it. Is it the biological nature of humans that makes us human or the tendency for morality or humane living?
-- The failures and *human-ess *of humans. The faculty of emotions; are these propensities emotions that make us human? Why should we have them when it impedes us?
+- The failures and *human-ess* of humans. The faculty of emotions; are these propensities emotions that make us human? Why should we have them when it impedes us?
 - Why is it that humans look to "elder beings" for reason if they are the species with the advanced mind?
 
 ### 0286: STAGNATE
